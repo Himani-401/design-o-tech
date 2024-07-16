@@ -1,0 +1,133 @@
+body{
+    margin:0px;
+
+}
+.image{
+    
+    height: 65px;
+
+}
+.navbar{
+    display: flex;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.952);
+  
+}
+.logo{
+    display:flex;
+    font-size: 20px;
+    background-color:  rgba(0, 0, 0, 0.952);
+   
+  
+}
+.text1{
+    color:white;
+    
+}
+nav{
+    display: flex;
+    background-color:  rgba(0, 0, 0, 0.952);
+    padding-bottom: 3vh;
+    
+}
+.content{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding-right: 200px;
+    
+    
+}
+.button1{
+    background-color: rgb(171, 203, 212);
+    color:rgb(42, 41, 41);
+    font-size: 3vh;
+    border-radius: 10px;
+    border-style: hidden;
+    border: 0px;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+.head1{
+    font-size: 40px;
+    background-color:rgba(220, 246, 253, 0.621);
+    margin-top: 0px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.brands{
+    display:flex;
+    
+}
+.head2{
+    font-size: 30px;
+}
+.button2{
+    background-color: black;
+    color:white;
+    font-size: 3vh;
+    border-radius: 10px;
+    box-shadow: none;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+.img1{
+    padding-left: 300px;
+    padding-right: 250px;
+    height: 90vh;
+    background-color: rgba(0, 0, 0, 0.952);
+}
+.img2{
+    margin-right: 170px;
+    margin-left: 100px;
+}
+.img3{
+    height: 90vh;
+    width: 70vh;
+}
+.img4{
+    height: 90vh;
+    width: 80vh;
+}
+.img5{
+    width: 200vh;
+    height:100vh;
+    padding-left: 10vh;
+}
+.right{
+   margin-left: 10vh;
+   display: flex;
+}
+.all{
+    background-color: rgb(219, 242, 247);
+}
+
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+.feedback{
+    height: 450px;
+    width:600px;
+    margin-left: 550px;
+padding-left: 30px;
+padding-top: 20px;
+   
+    margin-top: 100px;
+    font-size: 30px;
+    border: 2px solid ;
+} 
+.feedback .email .input{
+    size: 30px;
+}
